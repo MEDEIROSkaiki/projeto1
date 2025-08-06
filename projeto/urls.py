@@ -1,6 +1,6 @@
+# projeto/urls.py
 from django.contrib import admin
 from django.urls import path, include
-
 # Importe settings e static para servir arquivos de mídia no desenvolvimento
 from django.conf import settings
 from django.conf.urls.static import static
